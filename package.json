@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/thinkful-ei-jaguar/buggyscript-taylorB-robert#readme",
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.3.1"
   }
 }
